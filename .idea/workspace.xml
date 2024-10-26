@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c18bf6b8-3641-4d29-9d4b-f26ea852f7a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Python for Eveyone.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code 2 Foundation.py" afterDir="false" />
-    </list>
+    <list default="true" id="c18bf6b8-3641-4d29-9d4b-f26ea852f7a4" name="Changes" comment="Code 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +33,8 @@
   "keyToString": {
     "Python.Code 2 Foundation.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -60,6 +53,19 @@
       <option name="presentableId" value="Default" />
       <updated>1729953262641</updated>
     </task>
+    <task id="LOCAL-00001" summary="Code 2">
+      <option name="closed" value="true" />
+      <created>1729955398794</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729955398794</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Code 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code 2" />
   </component>
 </project>
